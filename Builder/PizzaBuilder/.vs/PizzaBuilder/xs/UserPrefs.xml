@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{9562F557-705B-486E-BAB6-DE647E33EAB0}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Program.cs" Line="6" Column="1" />
+      <File FileName="IPizzaBuilder.cs" Line="10" Column="6" />
+      <File FileName="Builders/WheatPizzaBuilder.cs" Line="3" Column="30" />
+      <File FileName="Builders/WhitePizzaBuilder.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PizzaBuilder" expanded="True" selected="True">
+            <Node name="PizzaBuilder" expanded="True">
+              <Node name="Builders" expanded="True" />
+              <Node name="Products" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PizzaBuilder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
